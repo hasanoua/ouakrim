@@ -1,0 +1,49 @@
+*{margin: 0px;
+padding: 0px
+
+}
+body{
+
+background-color: silver;
+
+
+
+}
+.img{
+border: dashed 8px rgb(0, 140, 255);
+margin-left: 135px;
+}
+.lbl1{
+
+margin: 153px ;
+margin-top: 0px;
+}
+.lbl{
+color: blue;
+background-color: white;
+text-align: center;
+
+
+}
+.lbl2  {
+color: orangered;
+background-color: chartreuse;
+text-align: center;
+font-size: 25px;
+border-radius: 12px;
+}
+.ara{
+	direction: rtl;
+   font-size: 25px;
+   color: orangered;
+
+}
+.myfa a {
+    color: white;
+	background-color: blue;
+	text-decoration : none;
+	list-style-type: none;
+	border-radius:8px;
+    border: 8px solid orangered;
+}
+
